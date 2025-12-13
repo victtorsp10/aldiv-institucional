@@ -179,7 +179,7 @@ const Header = () => {
                     <a href="https://www.instagram.com/aldiv_gestao/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-foreground/10 flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors" aria-label="Instagram">
                       <FaInstagram className="w-4 h-4" />
                     </a>
-                    <a href="#" className="w-10 h-10 rounded-full bg-foreground/10 flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors" aria-label="LinkedIn">
+                    <a href="https://www.linkedin.com/company/110355849/admin/dashboard/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-foreground/10 flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors" aria-label="LinkedIn">
                       <FaLinkedinIn className="w-4 h-4" />
                     </a>
                   </div>

@@ -46,8 +46,10 @@ const Footer = () => {
               >
                 <FaInstagram className="w-4 h-4" />
               </a>
-              <a 
-                href="#" 
+              <a
+                href="https://www.linkedin.com/company/110355849/admin/dashboard/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-10 h-10 bg-primary-foreground/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors"
                 aria-label="LinkedIn"
               >
